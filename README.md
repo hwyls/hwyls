@@ -3,7 +3,7 @@
 <h2>🐉 Cyber Projects:</h2>
 
 - <b>Personal Projects</b>
-  - [Home Lab](https://github.com/hwyls/LINK)
+  - [Home Lab](https://github.com/hwyls/homelab)
 
 <h2>🔖 Certifications</h2>
 
